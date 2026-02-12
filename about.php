@@ -33,7 +33,7 @@
       <p>
         <strong>Take Your Seat Tours and Travels Pvt. Ltd.</strong> is a professionally
         managed travel company based in Nepal, offering complete travel solutions
-        for domestic and international travelers.
+        for domestic and international travelers. ukuiuiuiu
       </p>
 
       <p>
