@@ -34,7 +34,7 @@ if (isset($_GET['i'])) {
         <div id="searchResults" class="search-results"></div>
       </div>
 
-      <p class="hero-lgt">Let's go together</p>
+      <p class="hero-lgt">Let's go together sfssfsf</p>
 
       <!-- <div class="view-btn">
         <a href="tours.php" class="btn-primary-vtp">View Tour Packages</a>
