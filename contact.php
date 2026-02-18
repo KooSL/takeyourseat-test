@@ -48,7 +48,7 @@ if (isset($_POST['send'])) {
   <?php if (isset($_GET['success'])): ?>
     <div class="success-box-contact" id="successBox">
       <strong>Success!</strong>
-      <p>Your message has been sent successfully. We’ll contact you soon. jhgghgh dfdfdfdf</p>
+      <p>Your message has been sent successfully. We’ll contact you soon. jhgghgh dfdfdfdf dfdfdf</p>
     </div>
   <?php endif; ?>
 
